@@ -25,4 +25,4 @@
 127.0.0.1    www.naver.com
 127.0.0.1    www.google.com
 127.0.0.1    www.bing.com
-
+127.0.0.1    www.microsoft.com
